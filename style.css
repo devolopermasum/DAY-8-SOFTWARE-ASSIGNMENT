@@ -1,0 +1,138 @@
+
+.header-image img{
+    min-width: 100%;
+    margin-top: -8px;
+}
+.service-section{
+  background-color: #0d6efd;
+}
+.first-section{
+    height: auto;
+    width: 480px;
+    background-color: #e67e22;
+    display:inline-block;
+    margin-left: 200px;
+    padding:12px 0px 20px 0px;
+    box-shadow:2px 4px 6px rgba(0, 0, 0, 0.576);
+
+    border-radius: 0px 50px 50px 0px;
+}
+.secend-section{
+    height: auto;
+    width: 480px;
+    display: inline-block;
+    background-color: #1abc9c;
+    margin-left: 580px;
+    margin-top: 30px;
+    box-shadow:0px 4px 6px rgba(0, 0, 0, 0.576);
+
+    border-radius: 50px 0px 0px 50px;
+}
+
+.flag{
+    background-color: #4d687a;
+    padding-bottom: 90px;
+}
+.flag-header{
+    color:white;
+    text-align: center;
+}
+.bangladesh-flag{
+    height: 170px;
+    width: 300px;
+    background-color:green;
+    box-shadow: 3px 2px 9px rgba(255, 255, 255, 0.416);
+    text-align: center;
+    margin-left:100px;
+    display:inline-block;
+    
+}
+.bangladesh-flag-middle{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: red;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+
+.england-flag{
+    height: 170px;
+    width: 300px;
+    background-color:white;
+    box-shadow: 3px 2px 9px rgba(255, 255, 255, 0.416);
+    text-align: center;
+    margin-left: 50px;
+    display: inline-block;
+    
+}
+.england-flag-middle1{
+    height: 23px;
+    width: 100%;
+    background-color:red;
+    display: inline-block;
+    margin-top: 70px;
+}
+.england-flag-middle2{
+    height:167px;
+    width: 20px;
+    background-color: red;
+    display: inline-block;
+    margin-top: -96px;
+    margin-left: 145px;
+}
+
+.japan-flag{
+    height: 170px;
+    width: 300px;
+    background-color:white;
+    box-shadow: 3px 2px 9px rgba(255, 255, 255, 0.416);
+    margin-left: 50px;
+    text-align: center;
+    border: 3px solid black;
+    display: inline-block;
+}
+.japan-flag-middle{
+    height:110px;
+    width: 110px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top: 34px;
+    display: inline-block;
+}
+.main-flag{
+    height:182px;
+    width:300px;
+    background:#fff;
+    margin: 0px auto;
+    margin-bottom: -20px;
+    margin-top: 15px;
+
+    text-align: center;
+}
+.germany-flag{
+    height:auto;
+    width:300px;
+}
+.germany-flag-middle1{
+    height: 60px;
+    width: 300px;
+    background-color: black;
+
+    display: inline-block;
+}
+.germany-flag-middle2{
+    height:60px;
+    width: 300px;
+    background-color: red;
+
+    display: inline-block;
+}
+.germany-flag-middle3{
+    height:60px;
+    width: 300px;
+    background-color: yellow;
+
+    display: inline-block;
+}
